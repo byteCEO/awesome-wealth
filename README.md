@@ -16,7 +16,7 @@ A curated list of awesome Model Context Protocol (MCP) servers, APIs, and tools 
 
 ### ⛓️ On-Chain & Crypto
 *Tools for tracking token prices, wallet balances, and blockchain state.*
-* [CoinGecko Official MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/coingecko) - The official server for tracking crypto prices and market data across 200+ blockchains.
+* [CoinGecko Official MCP](https://docs.coingecko.com/docs/mcp-server) - The official server for tracking crypto prices and market data across 200+ blockchains directly from CoinGecko.
 * [Crypto Price MCP](https://github.com/truss44/mcp-crypto-price) - Hooks into the CoinCap API for real-time crypto trends and historical data.
 
 ### 🛡️ KYC/KYB & Compliance
