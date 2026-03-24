@@ -29,6 +29,16 @@ A curated list of awesome Model Context Protocol (MCP) servers, APIs, and tools 
 * [Solana Agent Kit MCP](https://github.com/sendaifun/solana-mcp) - AI-driven interactions with the Solana blockchain, enabling 40+ protocol actions including transactions, wallet management, and NFT minting.
 * [Wallet Inspector MCP](https://github.com/kukapay/wallet-inspector-mcp) - Inspects wallet balances and on-chain activity across major EVM chains (Ethereum, Polygon, BSC, Base, Arbitrum) and Solana. Returns formatted balance tables and transaction histories.
 
+### 🏠 Property & Real Estate
+
+*Tools for property search, MLS data, valuations, mortgage calculations, and real estate CRM management.*
+
+* [Zillow MCP](https://github.com/sap156/zillow-mcp-server) - Real-time access to Zillow property data. Search listings by location and price range, retrieve property details, track market trends (median sale price, days on market), and calculate mortgage payments.
+* [Repliers Real Estate API MCP](https://github.com/Repliers-io/mcp-server) - Accesses real-time MLS listings, property history, valuations, and advanced search filters. Supports natural language queries like "3-bed apartments in SF under $1M listed this week."
+* [Real Estate Data Management MCP](https://github.com/agentic-ops/real-estate-mcp) - A comprehensive local data management tool with 30+ tools covering listings, agent operations, client management, market analysis, and area intelligence including nearby amenities and school data.
+* [Follow Up Boss CRM MCP](https://github.com/benlaube/fub-mcp) - Connects AI agents to the Follow Up Boss real estate CRM. 34 tools for full CRUD on contacts, leads, deals, pipelines, tasks, and call logs — with duplicate detection and smart date filtering.
+* [Australian Real Estate RAG MCP](https://github.com/danny-tdoan/realestate-rag-mcp) - Enables flexible, natural language property search and market analysis across Australian real estate listings using a vector database and RAG pipeline. Supports school-zone and suburb-boundary queries. *(Australia market)*
+
 ### 🛡️ KYC/KYB & Compliance
 
 *Tools for identity verification, business onboarding, and AML checks.*
