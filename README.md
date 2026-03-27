@@ -2,8 +2,6 @@
 
 A curated list of awesome Model Context Protocol (MCP) servers, APIs, and tools for finance, wealth management, and market data.
 
-*Maintained by [ByteCEO](https://www.linkedin.com/company/byteceo) as we map the landscape for AI-native wealth and compliance infrastructure.*
-
 ---
 
 ## 📂 The Directory
@@ -69,7 +67,7 @@ A curated list of awesome Model Context Protocol (MCP) servers, APIs, and tools 
 ## 🗺️ Roadmap
 
 - [x] **Phase 1:** Aggregate the most useful wealth-related APIs and MCPs in one place.
-- [ ] **Phase 2:** Launch the official ByteCEO Wealth MCP server for direct LLM integration into compliance and wealth workflows.
+- [ ] **Phase 2:** TBD
 
 ---
 
