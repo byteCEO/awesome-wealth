@@ -27,6 +27,8 @@ A curated list of awesome Model Context Protocol (MCP) servers, APIs, and tools 
 * [Solana Agent Kit MCP](https://github.com/sendaifun/solana-mcp) - AI-driven interactions with the Solana blockchain, enabling 40+ protocol actions including transactions, wallet management, and NFT minting.
 * [Wallet Inspector MCP](https://github.com/kukapay/wallet-inspector-mcp) - Inspects wallet balances and on-chain activity across major EVM chains (Ethereum, Polygon, BSC, Base, Arbitrum) and Solana. Returns formatted balance tables and transaction histories.
 
+* [AgentServices MCP](https://agentservices.to) - 54 x402-paid data APIs across crypto, FX, market intelligence, and inference with native MCP support (37 tools). On-chain payments via USDC on Base.
+
 ### 🏠 Property & Real Estate
 
 *Tools for property search, MLS data, valuations, mortgage calculations, and real estate CRM management.*
