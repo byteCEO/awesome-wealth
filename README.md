@@ -50,6 +50,7 @@ A curated list of awesome Model Context Protocol (MCP) servers, APIs, and tools 
 
 * [TypeScript Calculator MCP](https://github.com/mvavassori/calculator-mcp-server) - A comprehensive math server exposing functions for percentages, trigonometry, logarithms, and basic arithmetic.
 * [Go Calculator Server](https://github.com/avisangle/calculator-server) - A high-precision, Go-based MCP server implementing 13+ advanced mathematical tools including NPV, IRR, loan comparison, and investment scenario modelling.
+* [IndepAI](https://indepai.app/tools/coast-fire-calculator) - Free Coast and Barista FIRE and FI calculators with geo-arbitrage projections across 11,800+ cities, showing how location changes your path to financial independence.
 
 ### 📰 News & Sentiment
 
