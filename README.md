@@ -43,6 +43,7 @@ A curated list of awesome Model Context Protocol (MCP) servers, APIs, and tools 
 
 * [Open Legal Compliance MCP](https://github.com/TCoder920x/open-legal-compliance-mcp) - Enables AI assistants to search and analyze legal documents from multiple jurisdictions using open government APIs (US Code, CFR, CourtListener, SEC EDGAR, EU regulations, UK legislation).
 * *(We are currently mapping the identity space. The official ByteCEO KYC/B MCP server will be listed here soon.)*
+* [Statsnet MCP](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`.
 
 ### 🧮 Calculators & Projections
 
