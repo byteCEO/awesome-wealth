@@ -17,6 +17,7 @@ A curated list of awesome Model Context Protocol (MCP) servers, APIs, and tools 
 * [EODHD MCP](https://github.com/Enlavan/EODHD_MCP_server) - Exposes EOD Historical Data APIs to any MCP-compatible client. Covers 75+ tools including daily OHLCV, intraday, tick data, fundamentals, news, sentiment, and options.
 
 ### ⛓️ On-Chain & Crypto
+- **[Money Reactor](https://github.com/makar52nn2016-jpg/money-reactor)** - x402 paid APIs: crypto bounty radar + repo honeypot trust scoring (USDC on Base, MCP over HTTP)
 
 *Tools for tracking token prices, wallet balances, and blockchain state.*
 
